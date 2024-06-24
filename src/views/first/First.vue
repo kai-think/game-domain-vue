@@ -88,10 +88,10 @@ export default {
     carousel: {
       model: 0,
       srcs: [
-        '/image/2166988_115638_1.jpg',
-        '/image/cover%20-%20180e71b1cad.jpg',
-        '/image/202106111511085807.jpg',
-        '/image/cover%20-%20180e71d3e7e.jpg',
+        '/image/3ljezd.jpg',
+        '/image/3ljy86.jpg',
+        '/image/l8p7j2.jpg',
+        '/image/yxo3lk.jpg',
       ],
     },
     search: {
